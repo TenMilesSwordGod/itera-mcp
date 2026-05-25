@@ -45,6 +45,12 @@ Thumbs.db
 .env.*
 !.env.example
 
+# Secrets
+.githubtoken
+.giteatoken
+*.secret
+*.key
+
 # Logs
 *.log
 
